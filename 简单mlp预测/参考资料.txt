@@ -1,0 +1,8 @@
+1、https://blog.csdn.net/weixin_43509698/article/details/102734753
+2、https://blog.csdn.net/qq_39909808/article/details/121239095
+3、https://www.zhihu.com/question/391180806
+4、https://blog.csdn.net/qq_40268672/article/details/109550296
+5、https://github.com/AlexanderSouthan/pyDataFitting
+6、https://paperswithcode.com/paper/fast-nonlinear-vector-quantile-regression
+
+ 如何  用神经网络进行多元非线性函数的拟合  实现一个通用解决方案
