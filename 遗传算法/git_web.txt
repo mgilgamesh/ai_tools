@@ -1,3 +1,0 @@
-1、https://github.com/guofei9987/scikit-opt
-2、https://github.com/ahmedfgad/GeneticAlgorithmPython
-3、https://github.com/rmsolgi/geneticalgorithm
